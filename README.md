@@ -42,7 +42,7 @@
 
 <br>
 
-## ⭐ Featured Repositories
+<!-- ## ⭐ Featured Repositories
 <div>
   <a href="https://github.com/Skream18/GUI_Rocket_rep">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Skream18&repo=GUI_Rocket_rep&theme=dark&hide_border=true" width="45%" />
@@ -50,7 +50,6 @@
   <a href="https://github.com/Skream18/learning-city-builder">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Skream18&repo=learning-city-builder&theme=dark&hide_border=true" width="45%" />
   </a>
-</div>
-
+</div> -->
 
 
