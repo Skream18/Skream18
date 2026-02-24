@@ -30,9 +30,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahmeer0khan0@gmail.com) <br><br>
 
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 # 📊 GitHub Analytics
 
 <div>
@@ -40,33 +37,20 @@
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Skream18&theme=dark" width="45%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Skream18&theme=dark" width="45%" />
-  
+ 
 </div>
 
 <br>
 
-### ⭐ Featured Repositories
+## ⭐ Featured Repositories
 <div>
-  <a href="https://github.com/Skream18/your-best-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Skream18&repo=your-best-repo&theme=dark&hide_border=true" width="45%" />
+  <a href="https://github.com/Skream18/GUI_Rocket_rep">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Skream18&repo=GUI_Rocket_rep&theme=dark&hide_border=true" width="45%" />
   </a>
-  <a href="https://github.com/Skream18/another-cool-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Skream18&repo=another-cool-repo&theme=dark&hide_border=true" width="45%" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Skream18/third-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Skream18&repo=third-repo&theme=dark&hide_border=true" width="45%" />
-  </a>
-  <a href="https://github.com/Skream18/fourth-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Skream18&repo=fourth-repo&theme=dark&hide_border=true" width="45%" />
+  <a href="https://github.com/Skream18/learning-city-builder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Skream18&repo=learning-city-builder&theme=dark&hide_border=true" width="45%" />
   </a>
 </div>
 
-<br>
-
-
-</div>
 
 
